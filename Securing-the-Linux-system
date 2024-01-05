@@ -1,0 +1,30 @@
+In this blog we will focus on bash scripting — Securing the Linux system is an important step in protecting your server from unauthorised access and potential security breaches. There are many steps you can take to harden your system and make it more secure, but it can be overwhelming to know where to start. This checklist provides a comprehensive guide to securing your system, covering all of the key steps you should take to ensure your system is secure and protected from potential threats. By following this checklist and automating the process with a bash script, you can have confidence that your system is hardened to a high standard and reduce the risk of human error or oversight.
+
+Document the host information
+BIOS protection
+Hard disk encryption
+Disk partitioning
+Lock the boot directory
+Disable USB usage
+Update your system
+Check the installed packages
+Check for open ports
+Secure SSH
+Enable SELinux
+Set network parameters
+Manage password policies
+Permissions and verifications
+Additional distro process hardening
+Remove unnecessary services
+Check for security on key files
+Limit root access using SUDO
+Only allow root to access CRON
+Remote access and SSH basic settings
+Disable Xwindow
+Minimize Package Installation
+Checking accounts for empty passwords
+Monitor user activities
+Install and configure fail2ban
+Rootkit detection
+Monitor system logs
+Enable 2-factor authentication
